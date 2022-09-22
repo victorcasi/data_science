@@ -1,3 +1,9 @@
+===================================================================================================================================================================
+
+                                                                          INSTRUCTIONS
+
+===================================================================================================================================================================
+
 This example looks at an undirected network that represents some of the project groups of an XPTO company. The connection between nodes A and B
 means that person A and B work together (or, that person A reports to person B). This network represents six main projects:
 
@@ -16,6 +22,24 @@ very concerned about Gotti and Chang, as the market is watching them.
 
                                              SOLUTION: The main metrics obtained are in the table "table_results"
 
-====================================================================================================================================================================
+===================================================================================================================================================================
 
 
+- On average, employees have 3,899 connections.
+
+- Chapman has the highest weighted degree and this is justified as he is the director.
+
+- The largest number of steps (diameter) that is taken to leave a point on the network and go to any other is 5. 
+
+- The minimum number of steps needed between two points is 3. 
+
+- On average, individuals take 2.5 steps to connect with any other on the network.
+
+- Gotti has a high closeness, being a strategic position in the area, reaching other individuals in the net quickly.
+In addition, he is also in the middle of the path of several other individuals in the network.
+
+- Chang is not standing in anyone's way. It has CC = 1, that is, if he leaves the network, it makes no difference.
+Not a strategic employee. Angel and Weng have the same characteristics.
+
+- Yu is not a director, but he has high closeness, reaching out quickly to other individuals. His betweness is also high, so it's very strategic.
+Polark is also a good point of articulation, as it can break connections.
