@@ -1,0 +1,13 @@
+This example looks at an undirected network that represents some of the project groups of an XPTO company. The connection between nodes A and B
+means that person A and B work together (or, that person A reports to person B). This network represents six main projects:
+
+• Department 1 (D1) - Snopp, Gukrishnan, Leon, Kabutz. Snopp reports to Chapman.
+• Department 2 (D2) - Oliver, Gotti, Patrick, Zhuo. Oliver reports to Chapman.
+• Department 3 (D3) - Gotti, Leon, Kabutz. Gotti reports to Chapman.
+• Department 4 (D4). Yu reports to Chapman on this project.
+• Department 4a (D4a) - Polark, Chang, Weng, Angel. Polark reports to Yu.
+• Department 4b (D4B) - Christoph, Nardo, Gotti, Zhuo. Christoph reports to Yu.
+• Department 4c (D4C) -Graffe, Zhuo, Hund. Graffe reports to Yu.
+
+Objective: to make a complete analysis of the measures and to detail insights that might be interesting, to present to the HR director. The Director is
+very concerned about Gotti and Chang, as the market is watching them.
