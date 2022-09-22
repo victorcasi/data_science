@@ -1,0 +1,19 @@
+Id,Label,timeset,degree,weighted degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality
+Yu,Yu,,4,9,3,0.5,0.578431,56.116667
+Chapman,Chapman,,4,12,3,0.5,0.578431,31.6
+Gotti,Gotti,,8,10,4,0.515152,0.681373,38.683333
+Oliver,Oliver,,4,6,4,0.447368,0.553922,3.033333
+Snopp,Snopp,,4,6,4,0.386364,0.5,11
+Gukrishn,Gukrishn,,3,3,5,0.326923,0.432353,0
+Leon,Leon,,4,4,5,0.386364,0.520588,5.283333
+Kabutz,Kabutz,,4,4,5,0.386364,0.520588,5.283333
+Patrick,Patrick,,3,3,5,0.377778,0.491176,0
+Zhuo,Zhuo,,7,7,4,0.472222,0.632353,20.633333
+Polark,Polark,,4,5,4,0.386364,0.5,42
+Chang,Chang,,3,3,5,0.293103,0.4,0
+Angel,Angel,,3,3,5,0.293103,0.4,0
+Weng,Weng,,3,3,5,0.293103,0.4,0
+Christop,Christop,,4,5,3,0.485714,0.568627,15.333333
+Nardo,Nardo,,3,3,4,0.425,0.514706,0
+Graffe,Graffe,,3,4,4,0.435897,0.514706,9.033333
+Hund,Hund,,2,2,4,0.369565,0.446078,0
