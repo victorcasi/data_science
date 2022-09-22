@@ -1,1 +1,1 @@
-# data_science_1
+Everything that i've been learning about data science
