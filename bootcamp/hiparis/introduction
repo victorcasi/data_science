@@ -1,1 +1,36 @@
+Bootcamp project & deliverables
+﻿
+About the project
+﻿
+1. Context 
+The Olympic Games are a celebration of athletic excellence, where the world's best athletes compete for glory. In this Data Boot Camp, we'll explore a dataset on Olympic medalists, as well as focus on one of the sports performed at olympic games, tennis. 
+Olympic medals represent more than just personal triumphs; they are also influenced by broader socio-economical factors. From political events to the rise of new sporting nations, our analysis will reveal how global events shape the outcomes of the Games.
+As you work with these datasets, you'll apply data analysis and data science techniques to uncover trends during the olympic games, explore factors that lead to Olympic success and predict future winners by focusing on tennis performance. This exercise will sharpen your technical skills and enhance your understanding of the complex dynamics in international sports.
+﻿
+  2. Your role
+You work for a Public Sport’s Organization in a Data Scientist Team.
+Your task is to collaborate with sports organizations and governing bodies, offering insights that will enable them to analyze Olympic performance, identify emerging trends, and devise strategies to enhance athlete and most specifically tennis player preparation, and success on the world stage.
+Within a 1-week time frame, you are tasked with presenting your findings about the Olympic Games data, as well as formulating comprehensive recommendations to optimize tennis player performance. 
+﻿
+During the bootcamp week, you will work on two different datasets:
+A dataset ( athlete_events.csv ) including athlete data during the Olympic Games (for the Data cleaning & Data visualization practical sessions)
+A dataset ( tennis_matches.csv ﻿ ﻿ ) with data on tennis players and matches (for the Exploratory Data Analysis & Machine Learning practical sessions)
+PDF files with a detailed explanation of both datasets is available for download on this page.
+( noc_regions.csv  is an optional dataset to replace NOC region names with country names in the olympic games dataset)
+Deliverables - What is expected from you ?
+You will have to complete and send us (on Friday) two of the practical session notebooks, as well as presentation slides. 
+We will judge your deliverables based on the following criteria:
+Performance of the algorithm
+Quality of the presentation: scientific approach, clarity of the results presented
+Creativity of the proposed analysis
+Relevance of the answers to the questions
+Relevance of the insights selected – balance between exhaustivity and synthesis
+﻿
+As for the presentation slides, this is what we expect:
+1 PowerPoint of 4 to 6 slides with :
+•	1 team presentation slide (who are you, school, team organization) 
+•	1-2 slides to describe your approach following the path: Data preparation >> Preparation exploration & viz >> Model building and optimization.
+•	1 slide to justify your content/scientific approach: decision made, model chosen, optimization realized.
+•	1-2 slides to present your analysis and your conclusions
+﻿
 
