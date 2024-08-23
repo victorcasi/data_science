@@ -17,8 +17,10 @@ A dataset ( athlete_events.csv ) including athlete data during the Olympic Games
 A dataset ( tennis_matches.csv ﻿ ﻿ ) with data on tennis players and matches (for the Exploratory Data Analysis & Machine Learning practical sessions)
 PDF files with a detailed explanation of both datasets is available for download on this page.
 ( noc_regions.csv  is an optional dataset to replace NOC region names with country names in the olympic games dataset)
+
 Deliverables - What is expected from you ?
 You will have to complete and send us (on Friday) two of the practical session notebooks, as well as presentation slides. 
+
 We will judge your deliverables based on the following criteria:
 Performance of the algorithm
 Quality of the presentation: scientific approach, clarity of the results presented
