@@ -44,6 +44,8 @@ Plots S-curves and confidence intervals for one or all columns of a DataFrame.
 You can find the examples and study cases on the folder /notebooks
 
 Here’s a simple example of how to import and use the library:
+
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -61,7 +63,7 @@ confidence_intervals = bootstrap_confidence_interval(data, percentiles=[1, 25, 5
 
 ### Plotting
 plot_confidence_intervals(df, column='Sample Data', percentiles=[1, 25, 50, 75, 95, 99], confidence=0.95, n_bootstraps=1000)
-
+```
 ## Conclusion
 
 This library provides a robust framework for statistical analysis and visualization of complex datasets, making it easier for users to interpret data effectively. It is designed to enhance data-driven decision-making processes within Renault and can be adapted for various applications across different sectors.
