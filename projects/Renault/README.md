@@ -1,6 +1,6 @@
 # 🚗 **Report - Renault Group: Customer Usage Data Science and Analytics (for Component Optimization)**
 
-Welcome to the repository of my internship project conducted at **Renault Group - Ampere Cars Division**, as part of the **Master's program in Data Science at Telecom SudParis – Institut Polytechnique de Paris**. This project focused on **analyzing vehicle usage data** for optimizing automotive components, using **advanced statistical techniques** such as **bootstrap**, **jackknife**, and **regression** to calculate confidence intervals. Below, you'll find an overview of the internship's objectives, methodology, and key findings.
+Welcome to the directory of my internship project conducted at **Renault Group - Ampere Cars Division**, as part of the **Master's program in Data Science at Telecom SudParis – Institut Polytechnique de Paris**. This project focused on **analyzing vehicle usage data** for optimizing automotive components, using **advanced statistical techniques** such as **bootstrap**, **jackknife**, and **regression** to calculate confidence intervals. Below, you'll find an overview of the internship's objectives, methodology, and key findings.
 
 ---
 
