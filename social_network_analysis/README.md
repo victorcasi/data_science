@@ -1,2 +1,0 @@
-- SOCIAL NETWORK ANALYSIS
-- Exercises analysis performed in the GEPHI software
