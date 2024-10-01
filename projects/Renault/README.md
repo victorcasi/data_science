@@ -53,7 +53,7 @@ Analyzed the **average speed profiles** of customers, focusing on the variabilit
 
 ---
 
-## 🛠️ **Tools and Technology Stack**
+## 🛠️ ** Main Tools and Technology Stack**
 
 - **Python**: Used for data analysis, applying statistical methods, and developing a Python library for estimating confidence intervals.
 - **Pandas & NumPy**: For handling large datasets and performing numerical computations.
@@ -72,11 +72,9 @@ By enhancing the **accuracy of customer usage models** and optimizing vehicle co
 
 ## 📂 **Repository Structure**
 
-- `src/`: Contains the Python scripts and the developed library for estimating confidence intervals.
+- `library/`: Contains the developed library for estimating confidence intervals.
 - `notebooks/`: Jupyter notebooks with data analysis and case study results.
-- `docs/`: Documentation for the methodology and code.
-- `data/`: Sample datasets (anonymized) used for case studies.
-- `results/`: Plots, tables, and final report of the findings.
+- `docs/`: Documentation for the methodology and code + presentation in powerpoint.
 
 ---
 
