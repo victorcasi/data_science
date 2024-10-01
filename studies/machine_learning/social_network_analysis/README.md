@@ -1,47 +1,57 @@
-===================================================================================================================================================================
+# 📋 Instructions
 
-                                                                          INSTRUCTIONS
+This example analyzes an undirected network representing the project groups of an XPTO company. The connections between nodes indicate collaboration or reporting relationships between individuals. The network comprises six main projects:
 
-===================================================================================================================================================================
+## 📂 Project Overview
 
-This example looks at an undirected network that represents some of the project groups of an XPTO company. The connection between nodes A and B
-means that person A and B work together (or, that person A reports to person B). This network represents six main projects:
+- **Department 1 (D1)**: Snopp, Gukrishnan, Leon, Kabutz.  
+  Snopp reports to Chapman.
 
-• Department 1 (D1) - Snopp, Gukrishnan, Leon, Kabutz. Snopp reports to Chapman.
-• Department 2 (D2) - Oliver, Gotti, Patrick, Zhuo. Oliver reports to Chapman.
-• Department 3 (D3) - Gotti, Leon, Kabutz. Gotti reports to Chapman.
-• Department 4 (D4). Yu reports to Chapman on this project.
-• Department 4a (D4a) - Polark, Chang, Weng, Angel. Polark reports to Yu.
-• Department 4b (D4B) - Christoph, Nardo, Gotti, Zhuo. Christoph reports to Yu.
-• Department 4c (D4C) -Graffe, Zhuo, Hund. Graffe reports to Yu.
+- **Department 2 (D2)**: Oliver, Gotti, Patrick, Zhuo.  
+  Oliver reports to Chapman.
 
-Objective: to make a complete analysis of the measures and to detail insights that might be interesting, to present to the HR director. The Director is
-very concerned about Gotti and Chang, as the market is watching them.
+- **Department 3 (D3)**: Gotti, Leon, Kabutz.  
+  Gotti reports to Chapman.
 
-===================================================================================================================================================================
+- **Department 4 (D4)**: Yu reports to Chapman on this project.
 
-                                             SOLUTION: The main metrics obtained are in the table "table_results"
+- **Department 4a (D4a)**: Polark, Chang, Weng, Angel.  
+  Polark reports to Yu.
 
-===================================================================================================================================================================
+- **Department 4b (D4B)**: Christoph, Nardo, Gotti, Zhuo.  
+  Christoph reports to Yu.
 
+- **Department 4c (D4C)**: Graffe, Zhuo, Hund.  
+  Graffe reports to Yu.
 
-- On average, employees have 3,899 connections.
+### 🎯 Objective
 
-- Chapman has the highest weighted degree and this is justified as he is the director.
+The objective is to conduct a comprehensive analysis of the network metrics and detail insights that may be of interest to the HR director. The director is particularly concerned about Gotti and Chang, as their performance is under market scrutiny.
 
-- The largest number of steps (diameter) that is taken to leave a point on the network and go to any other is 5. 
+---
 
-- The minimum number of steps needed between two points is 3. 
+# 🛠️ Solution: Key Metrics Summary
 
-- On average, individuals take 2.5 steps to connect with any other on the network.
+The main metrics obtained are summarized in the table "table_results":
 
-- Gotti has a high closeness, being a strategic position in the area, reaching other individuals in the net quickly.
-In addition, he is also in the middle of the path of several other individuals in the network.
+- **Average Connections**: Employees have an average of **3.899 connections**.
 
-- Chang is not standing in anyone's way. It has CC = 1, that is, if he leaves the network, it makes no difference.
-Not a strategic employee. Angel and Weng have the same characteristics.
+- **Weighted Degree**: Chapman has the highest weighted degree, justified by his position as director.
 
-- Yu is not a director, but he has high closeness, reaching out quickly to other individuals. His betweness is also high, so it's very strategic.
-Polark is also a good point of articulation, as it can break connections.
+- **Network Diameter**: The largest number of steps (diameter) required to travel between any two points in the network is **5**.
 
+- **Minimum Steps**: The minimum number of steps needed between any two points is **3**.
 
+- **Average Steps**: On average, individuals take **2.5 steps** to connect with others in the network.
+
+- **Closeness of Gotti**: Gotti exhibits high closeness, holding a strategic position that enables quick access to other individuals in the network. He also lies on the paths of several other network members.
+
+- **Position of Chang**: Chang's closeness centrality (CC) is **1**, indicating that his departure from the network would have no significant impact. He is not a strategic employee, similar to Angel and Weng.
+
+- **Role of Yu**: Although not a director, Yu possesses high closeness, allowing him to reach out quickly to others. His betweenness is also high, marking him as a strategic connector. Polark also plays a significant role as an articulation point in the network.
+
+---
+
+🔍 **Software Used**: This analysis was conducted using **Gephi**, a powerful tool for visualizing and analyzing networks.
+
+Feel free to reach out for any questions or additional insights regarding this analysis!
