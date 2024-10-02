@@ -53,7 +53,7 @@ Analyzed the **average speed profiles** of customers, focusing on the variabilit
 
 ---
 
-## 🛠️ ** Main Tools and Technology Stack**
+## 🛠️ **Main Tools and Technology Stack**
 
 - **Python**: Used for data analysis, applying statistical methods, and developing a Python library for estimating confidence intervals.
 - **Pandas & NumPy**: For handling large datasets and performing numerical computations.
