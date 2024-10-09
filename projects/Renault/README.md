@@ -1,3 +1,7 @@
+OBS: Due to intellectual property agreement between my internship and Renault, I needed to remove the content. However, below is a summary of the work completed, and if you're interested, feel free to reach out so we can discuss it further.
+
+---
+
 # 🚗 **Report - Renault Group: Customer Usage Data Science and Analytics (for Component Optimization)**
 
 Welcome to the directory of my internship project conducted at **Renault Group - Ampere Cars Division**, as part of the **Master's program in Data Science at Telecom SudParis – Institut Polytechnique de Paris**. This project focused on **analyzing vehicle usage data** for optimizing automotive components, using **advanced statistical techniques** such as **bootstrap**, **jackknife**, and **regression** to calculate confidence intervals. Below, you'll find an overview of the internship's objectives, methodology, and key findings.
@@ -69,15 +73,6 @@ The results of this project were **presented in workshops** to key stakeholders 
 By enhancing the **accuracy of customer usage models** and optimizing vehicle components based on real-world data, this internship contributed to **improving Renault's development processes**, especially in the context of electric mobility.
 
 ---
-
-## 📂 **Repository Structure**
-
-- `library/`: Contains the developed library for estimating confidence intervals.
-- `notebooks/`: Jupyter notebooks with data analysis and case study results.
-- `docs/`: Documentation for the methodology and code + presentation in powerpoint.
-
----
-
 
 ## 📧 **Contact**
 
