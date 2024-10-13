@@ -1,4 +1,4 @@
-OBS: Due to intellectual property agreement between my internship and Renault, I needed to remove the content. However, below is a summary of the work completed, and if you're interested, feel free to reach out so we can discuss it further.
+OBS: Due to intellectual property agreement between my internship and Renault, I needed to remove the code content. However, below is a summary of the work completed, and if you're interested, feel free to reach out so we can discuss it further. Also, you can download the report for further information.
 
 ---
 
